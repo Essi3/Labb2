@@ -1,0 +1,11 @@
+/Users/estherroozen/Projects/Labb2/Labb2/obj/Debug/netcoreapp3.0/Labb2.csprojAssemblyReference.cache
+/Users/estherroozen/Projects/Labb2/Labb2/obj/Debug/netcoreapp3.0/Labb2.AssemblyInfoInputs.cache
+/Users/estherroozen/Projects/Labb2/Labb2/obj/Debug/netcoreapp3.0/Labb2.AssemblyInfo.cs
+/Users/estherroozen/Projects/Labb2/Labb2/bin/Debug/netcoreapp3.0/Labb2
+/Users/estherroozen/Projects/Labb2/Labb2/bin/Debug/netcoreapp3.0/Labb2.deps.json
+/Users/estherroozen/Projects/Labb2/Labb2/bin/Debug/netcoreapp3.0/Labb2.runtimeconfig.json
+/Users/estherroozen/Projects/Labb2/Labb2/bin/Debug/netcoreapp3.0/Labb2.runtimeconfig.dev.json
+/Users/estherroozen/Projects/Labb2/Labb2/bin/Debug/netcoreapp3.0/Labb2.dll
+/Users/estherroozen/Projects/Labb2/Labb2/bin/Debug/netcoreapp3.0/Labb2.pdb
+/Users/estherroozen/Projects/Labb2/Labb2/obj/Debug/netcoreapp3.0/Labb2.dll
+/Users/estherroozen/Projects/Labb2/Labb2/obj/Debug/netcoreapp3.0/Labb2.pdb
